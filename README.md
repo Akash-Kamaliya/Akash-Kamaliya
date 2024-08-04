@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash R. Kamaliya</h1>
+[<h1 align="center">Hi 👋, I'm Akash R. Kamaliya</h1>
 <h3 align="center">I am a student of B. Tech in computer science and engineering at Darshan University</h3>
 <img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://pin.it/ISp7mOztA")
 ">
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-kamaliya&show_icons=true&locale=en" alt="akash-kamaliya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kamaliya&" alt="akash-kamaliya" /></p>
+](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
