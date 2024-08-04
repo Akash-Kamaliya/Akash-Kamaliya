@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash R. Kamaliya</h1>
 <h3 align="center">I am a student of B. Tech in computer science and engineering at Darshan University</h3>
-<img align="right"  width="600" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+<img align="right"  width="500" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/akash_kamaliya" target="blank"><img src="https://img.shields.io/twitter/follow/akash_kamaliya?logo=twitter&style=for-the-badge" alt="akash_kamaliya" /></a> </p>
