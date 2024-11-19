@@ -14,7 +14,7 @@
   <a href="https://twitter.com/akash_kamaliya" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
       alt="akash_kamaliya"
       height="30"
       width="40"
