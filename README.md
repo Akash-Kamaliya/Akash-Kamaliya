@@ -1,4 +1,3 @@
-<img align="right"  width="900" src="https://user-images.githubusercontent.com/72491412/124944400-e75fde00-e02a-11eb-82b3-6b6d9af4c5c1.png">
 <h1 align="center">Radhe Radhe 🙏, I'm Akash R. Kamaliya</h1>
 <h3 align="center">I am a student of B. Tech in computer science and engineering at Darshan University</h3>
 <img align="right"  width="600" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
