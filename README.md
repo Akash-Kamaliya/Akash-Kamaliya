@@ -6,8 +6,6 @@
   width="600"
   src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"
 />
-- 🔭 I’m currently working on **Frontend Development**
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **akashkamaliya9898@gmail.com**
