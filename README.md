@@ -2,7 +2,7 @@
 <h3 align="center">I am a student of B. Tech in computer science and engineering at Darshan
   University</h3>
 <img
-  align="center"
+  align="right"
   width="600"
   src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"
 />
