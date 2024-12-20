@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **akashkamaliya9898@gmail.com**
+<br><br><br><br><br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-r-kamaliya) 
 
