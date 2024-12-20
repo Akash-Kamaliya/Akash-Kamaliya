@@ -11,8 +11,7 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Java.
-- 📫 How to reach me **akashkamaliya9898@gmail.com**
+🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Java.📫 How to reach me **akashkamaliya9898@gmail.com**
 
 
 ## 🌐 Socials:
